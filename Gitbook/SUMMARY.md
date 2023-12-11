@@ -1,5 +1,5 @@
 # Summary
 
-* [简介](README.md)
-* [文件索引目录](CATALOGUE.md)
+* [平台首页](README.md)
+* [文件索引](CATALOGUE.md)
 
