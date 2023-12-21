@@ -13,7 +13,7 @@ let plugins = [
   'chapter-fold',
   'splitter',
   'alerts',
-  'valine',
+  //'valine',
   'popup'
 ];
 if (process.env.NODE_ENV == 'dev') plugins.push('livereload');
