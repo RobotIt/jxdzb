@@ -63,13 +63,13 @@ module.exports = {
       nav: [
         {
           target: '_blank', // 跳转方式: 打开新页面
-          url: 'https://www.buct.edu.cn/main.htm', // 跳转页面
-          name: '北京化工大学', // 导航名称
+          url: 'https://www.ceeaa.org.cn/', // 跳转页面
+          name: '中国工程教育专业认证协会官网', // 导航名称
         },
         {
           target: '_blank', // 跳转方式: 打开新页面
-          url: 'https://mech.buct.edu.cn/main.htm', // 跳转页面
-          name: '机电工程学院', // 导航名称
+          url: 'https://www.buct.edu.cn/main.htm', // 跳转页面
+          name: '北京化工大学官网', // 导航名称
         },
         // {
         //   target: '_blank', // 跳转方式: 打开新页面
