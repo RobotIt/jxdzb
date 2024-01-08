@@ -19,10 +19,10 @@ let plugins = [
 if (process.env.NODE_ENV == 'dev') plugins.push('livereload');
 
 module.exports = {
-  title: '教学文件管理',
+  title: '文件管理平台',
   author: '机电学院',
   lang: 'zh-hans',
-  description: '机电学院教学文件管理',
+  description: '机电学院文件管理平台',
   plugins,
   pluginsConfig: {
     // gitbook-plugin-code 插件配置

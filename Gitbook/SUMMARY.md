@@ -10,4 +10,6 @@
     * [实习实训](./Markdown/Certification/internship_training.md)
 * 系务工作-机械
     * [会议记录](./Markdown/Department/metting_minutes.md)
+* [学院新闻](./Markdown/News/news.md)
+* [问卷调查](./Markdown/Questionnaire/questionnaire.md)
 
