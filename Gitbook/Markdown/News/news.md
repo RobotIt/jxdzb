@@ -23,4 +23,13 @@
      &emsp; 1 [新闻链接](https://mp.weixin.qq.com/s/ZqhW6850gi2iYg2ffL6u1w)
      &emsp; 2 [新闻PDF](./files/机械设计制造及其自动化专业开展人才培养专题调研座谈会-2024-01-08.pdf)
 
-> 上述材料更新日期：2024年1月8日
+2 机电学院举行“时代新人铸魂工程”暨深化“三全育人”工作调研座谈会-2024-01-09
+     &emsp; 1 [新闻链接](https://mp.weixin.qq.com/s/n1GiDrRoYT_yjAn3jbFzRQ)
+     &emsp; 2 [新闻PDF](./files/机电学院举行“时代新人铸魂工程”暨深化“三全育人”工作调研座谈会.pdf)
+
+3 机电工程学院2023年度学生工作暨学生成长形成性评价总结会顺利召开-2024-01-09
+     &emsp; 1 [新闻链接](https://mp.weixin.qq.com/s/9HIs_r3Uc50Hlge0bpzdNQ)
+     &emsp; 2 [新闻PDF](./files/机电工程学院2023年度学生工作暨学生成长形成性评价总结会顺利召开.pdf)
+
+
+> 上述材料更新日期：2024年1月10日
