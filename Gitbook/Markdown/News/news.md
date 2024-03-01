@@ -35,9 +35,5 @@
      &emsp; 1 [新闻链接](https://mp.weixin.qq.com/s/a38rXGgcXcV9dVUVYw0HZw)
      &emsp; 2 [新闻PDF](./files/机电工程学院举办教材建设专题研讨会-2024-02-29.pdf)
 
-4 学校召开2024年春季新学期工作布置会-2024-02-23
-     &emsp; 1 [新闻链接](https://w.buct.edu.cn/https/77726476706e69737468656265737421fef2568f69327d536a468ca88d1b203b/2024/0226/c2108a188366/page.htm)
-     &emsp; 2 [新闻PDF](./files/学校召开2024年春季新学期工作布置会-2024-02-23.png)
-
 
 > 上述材料更新日期：2024年3月1日
