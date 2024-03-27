@@ -19,10 +19,10 @@ let plugins = [
 if (process.env.NODE_ENV == 'dev') plugins.push('livereload');
 
 module.exports = {
-  title: '文件管理平台',
+  title: '机械工程及自动化党支部',
   author: '机电学院',
   lang: 'zh-hans',
-  description: '机电学院文件管理平台',
+  description: '机电学院机械工程及自动化党支部',
   plugins,
   pluginsConfig: {
     // gitbook-plugin-code 插件配置
@@ -68,14 +68,14 @@ module.exports = {
         },
         {
           target: '_blank', // 跳转方式: 打开新页面
-          url: 'https://www.ceeaa.org.cn/', // 跳转页面
-          name: '中国工程教育专业认证协会官网', // 导航名称
+          url: 'https://www.12371.cn//', // 跳转页面
+          name: '共产党员网', // 导航名称
         },
-        // {
-        //   target: '_blank', // 跳转方式: 打开新页面
-        //   url: 'https://edu.csdn.net/course/detail/32032', // 跳转页面
-        //   name: 'CSDN', // 导航名称
-        // },
+        {
+          target: '_blank', // 跳转方式: 打开新页面
+          url: 'http://cpc.people.com.cn/', // 跳转页面
+          name: '中国共产党新闻网', // 导航名称
+        },
       ],
       // 底部打赏配置
       footer: {
